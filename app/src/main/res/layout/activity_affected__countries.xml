@@ -18,6 +18,7 @@
         android:drawablePadding="15dp"
         android:hint="Search"
         android:background="@drawable/search_shadow"
+        android:backgroundTint="@color/black"
         android:drawableLeft="@drawable/ic_baseline_search_24"/>
 
     <ListView
